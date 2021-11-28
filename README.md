@@ -4,4 +4,6 @@
 
 ![Logo_TEC](/docs/assets/images/logo_tec.jpg)
 
+### Mapa de Costa Rica(Mapbox)
+
 ### [HOME](./README.md)
