@@ -11,7 +11,7 @@
 
 ### Mapa de Costa Rica(Mapbox)
 
-<div id='map' style='width: 400px; height: 300px;'></div>
+<div id='map' style='width: 600px; height: 300px;'></div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5nY2MiLCJhIjoiY2t1OTN1dWlnMDM3aDJvcWp0czFqOTd3diJ9.oi2n4oJAszF8rcTVoLw3qA';
 var map = new mapboxgl.Map({
