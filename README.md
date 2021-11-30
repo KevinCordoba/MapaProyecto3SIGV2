@@ -9,7 +9,7 @@
 
 ![Logo_TEC](/docs/assets/images/logo_tec.jpg)
 
-### Mapa de Costa Rica(Mapbox)
+### Mapa de Costa Rica 
 
 <div id='map' style='width: 600px; height: 400px;'></div>
 <script>
